@@ -1,0 +1,7 @@
+* [快速开始](quick-start/)
+* [配置](configure/)
+* [指令](command/)
+* [权限](permission/)
+* [插件开发](plugin-dev/)
+* [自定义](customize/)
+* [升级](migrate/)
