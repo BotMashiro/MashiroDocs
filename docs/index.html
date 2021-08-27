@@ -11,7 +11,6 @@
 </head>
 <body>
   <div id="app"></div>
-  <div data-app id="main">加载中</div>
   <script>
     window.$docsify = {
       name: 'Mashiro',
@@ -20,10 +19,16 @@
       loadSidebar: true,
       loadNavbar: true,
       mergeNavbar: true,
+      subMaxLevel: 6,
+      onlyCover: true,
       name: 'Mashiro文档'
     }
   </script>
   <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-powershell.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
 </body>
 </html>
