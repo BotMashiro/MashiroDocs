@@ -9,5 +9,5 @@
 * 简单的插件开发：基于Python，并配备完善的接口，简化QQ机器人插件开发
 
 [GitHub](https://github.com/BotMashiro/Mashiro.git)
-[Get Started](#快速开始)
+[Get Started](quick-start/)
 
