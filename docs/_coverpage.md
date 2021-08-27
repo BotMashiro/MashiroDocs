@@ -10,4 +10,3 @@
 
 [GitHub](https://github.com/BotMashiro/Mashiro.git)
 [Get Started](quick-start/)
-
